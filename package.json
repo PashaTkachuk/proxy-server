@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node app.js"
   },
-  "repository": "",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/PashaTkachuk/proxy-server.git"
+  },
   "author": "Pavlo Tkachuk <pavlov.tkachuk@gmail.com>",
   "dependencies": {
     "bluebird": "^3.3.5",
