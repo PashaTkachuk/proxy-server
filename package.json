@@ -1,0 +1,16 @@
+{
+  "name": "proxy-server",
+  "version": "0.0.1",
+  "description": "Simple proxy server on node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": "",
+  "author": "Pavlo Tkachuk <pavlov.tkachuk@gmail.com>",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
